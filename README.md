@@ -1,4 +1,4 @@
-# Estatistica
+# Estatística
 
 A Estatística é fundamental para a Data Science, uma vez que permite a análise e interpretação de dados em um nível mais profundo. Na verdade, a Estatística é a base teórica da Data Science e é a partir dela que são construídas as técnicas e modelos que permitem a exploração dos dados de forma efetiva.
 
