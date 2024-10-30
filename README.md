@@ -10,5 +10,4 @@ Inferência: a Estatística permite a realização de inferências a partir de d
 Avaliação de modelos: a Estatística é essencial na avaliação da eficácia e eficiência dos modelos construídos, permitindo a escolha do melhor modelo para cada situação e evitando overfitting ou underfitting.
 
 
-
 Em resumo, a Estatística é fundamental na Data Science por permitir a organização, o tratamento, a análise e a interpretação de dados, bem como a construção de modelos estatísticos que permitem a resolução de problemas em diversas áreas. Por isso, a Estatística é uma das habilidades mais importantes que um cientista de dados deve possuir.
